@@ -1,2 +1,2 @@
 # data-science-studies
-Estudos e projetos de Data Science com Python e R
+Estudos e projetos de Ciência de dados com Python e R
